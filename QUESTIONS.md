@@ -1,1 +1,0 @@
-# 10 Concept Questions (Core Programming)
